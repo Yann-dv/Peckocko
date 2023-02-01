@@ -1,6 +1,6 @@
 # Peckocko
 
-##Tech
+## Tech
 MongoDB, NodeJs server, Angular
 
 ### Install
